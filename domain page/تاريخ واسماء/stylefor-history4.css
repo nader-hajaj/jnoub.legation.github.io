@@ -1,0 +1,31 @@
+.main{
+    font-family: 'Amiri', serif;
+    display: block;
+}
+p{
+    font-size: 19px;
+    color: #fff;
+}
+span{
+    color: #fff;
+    border: none;
+    font-size: 17px;
+}
+.mhmd-khyri, .mehyo, .bahaa,.dabous,.mostafa,.dabous,.mhmd-hebre,.ahmad,.abedallah,.mahmoud-naaman,.fawzy,.rasheed,.shafe2{
+    float: right;
+    width: 900px;
+    margin: 0 200px 30px 0;
+    background-color: #513292;
+}
+.mhmd-khyri-i,.mehyo-i, .bahaa-i,.dabous-i,.mostafa-i,.dabous-i,.mhmd-hebre-i,.ahmad-i,.abedallah-i,.mahmoud-naaman-i,.fawzy-i,.rasheed-i,.shafe2-i{
+    height: 200px;
+    width: 150px;
+    float: right;
+    padding: 2px 2px 2px 10px;
+    
+}
+.mhmd-khyri-t, .mhmd-hebre-t, .dabous-t, .mehyo-t, .bahaa-t, .abedallah-t, .ahmad-t, .mostafa-t,.mahmoud-naaman-t,.fawzy-t,.rasheed-t,.shafe2-t{
+    padding: 10px;
+    margin: 15px 170px 0 0;
+    color: #fff
+}
